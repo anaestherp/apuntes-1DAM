@@ -2,5 +2,9 @@
 -	Algoritmos 
 -	Diagramas de flujo 
 
+-	Estructuras de control: if, while, for 2. Edita ingles/vocabulario.txt y añade: 
+-	Database 
+-	Code 
+
 
 
